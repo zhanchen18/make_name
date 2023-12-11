@@ -31,7 +31,7 @@
     Object.defineProperty(t, "__esModule", {
         value: !0
     });
-    t.debugMode = !1, t.defaultBook = "shijing", t.defaultFamilyName = "李", t.nameAmount = 6
+    t.debugMode = !1, t.defaultBook = "shijing", t.defaultFamilyName = "占", t.nameAmount = 6
 }, function(e, t, n) {
     var r;
     /*!
